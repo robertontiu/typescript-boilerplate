@@ -1,0 +1,14 @@
+# Cache / Errors
+.DS_Store
+yarn-error.log
+npm-debug.log
+.eslintcache
+
+# Node modules
+node_modules
+
+# Webstorm .idea
+.idea
+
+# dist
+dist
